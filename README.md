@@ -70,3 +70,21 @@ npm run dev
 ## Developed for
 
 FutureAI Global Hackathon 2026
+
+## 📸 Screenshots
+
+### Home Page
+
+![Home](screenshots/home.png)
+
+---
+
+### Scam Message Input
+
+![Input](screenshots/input.png)
+
+---
+
+### Analysis Result
+
+![Result](screenshots/result.png)
