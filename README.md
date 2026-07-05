@@ -74,10 +74,10 @@ FutureAI Global Hackathon 2026
 ## 📷 Screenshots
 
 ### Home
-![Home](screenshots/home.png)
+![Home](screenshots/home.png.png)
 
 ### Input
-![Input](screenshots/input.png)
+![Input](screenshots/input.png.png)
 
 ### Result
-![Result](screenshots/result.png)
+![Result](screenshots/result.png.png)
