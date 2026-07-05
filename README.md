@@ -77,13 +77,9 @@ FutureAI Global Hackathon 2026
 
 ![Home](screenshots/home.png)
 
----
-
 ### Scam Message Input
 
 ![Input](screenshots/input.png)
-
----
 
 ### Analysis Result
 
