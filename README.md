@@ -71,10 +71,13 @@ npm run dev
 
 FutureAI Global Hackathon 2026
 
-## 📸 Screenshots
+## 📷 Screenshots
 
-![Home](home.png)
+### Home
+![Home](screenshots/home.png)
 
-![Input](input.png)
+### Input
+![Input](screenshots/input.png)
 
-![Result](result.png)
+### Result
+![Result](screenshots/result.png)
